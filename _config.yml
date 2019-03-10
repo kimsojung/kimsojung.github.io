@@ -1,7 +1,7 @@
 # Site Info
 title: sjungxx's blog
 tagline: 'for data science'
-description: 'blog for textmining'
+description: 'blog for data science'
 url: http://kimsojung.github.io
 logo: '/public/logo.png'
 encoding: utf-8
@@ -25,15 +25,16 @@ version: 1.0.0
 author:
   name: sjungxx
   #description: <strong>보물찾기</strong> 그리운 마을, 그 먼 바다에 이르기까지
-  gravatar: 0a638fc7996869b1b67fb90ccf77dcfe # md5 hash of your email address
+  gravatar: 7776d6e29bb7f01ccea878d7b5f32e12 # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/gichanglee/
-    github:    https://github.com/ratsgo
-    facebook:  https://www.facebook.com/gichanglee.84
+    github:    https://github.com/sjungxx
+    facebook:  https://www.facebook.com/sojung199
     #twitter:  <hide>
     #weibo:    <hide>
-    email:     mailto:gichang_lee@korea.ac.kr
+    email:     mailto:kimsojung199527@gmail.com
 
+image: https://ratsgo.github.io/public/img/picture.JPG
 # Navigation (2nd level links supported)
 nav:
   Home:           
